@@ -28,7 +28,10 @@ An interactive terminal-based math problem solver that uses Claude 4's code exec
 2. **Set your API key**:
 
    ```bash
+   for Unix
    export ANTHROPIC_API_KEY="your-api-key-here"
+   or for windows
+   set ANTHROPIC_API_KEY="your-api-key-here"
    ```
 
 3. **Run the solver**:
